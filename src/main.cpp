@@ -91,6 +91,7 @@ void datch()
       
     }
     if (scode[7]!=2) flag = 2;
+    
     /*if (scode[7] == 2) 
       {
         set_car_speed(90, 100);
